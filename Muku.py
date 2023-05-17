@@ -70,11 +70,12 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("ʀᴇᴘᴏ", callback_data="repo")
         ],
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_SUPPORT")
+            InlineKeyboardButton("Aristocrat PH", url="https://t.me/AristocratPH"),
+            InlineKeyboardButton("Podcast PH", url="https://t.me/PodcastPh")
         ],
         [
-            InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/ABOUT_MUKUND/15")
+            InlineKeyboardButton("ILA Channel", url="https://t.me/ImperialLegion"),
+            InlineKeyboardButton("Paige's Poem", url="https://t.me/PoeticFervour")
         ]
     ]
 )
@@ -88,19 +89,20 @@ START_LUL = [
         InlineKeyboardButton("ʀᴇᴘᴏ", callback_data="repo"),
     ],
     [ 
-        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_SUPPORT"),
+        InlineKeyboardButton("Aristocrat PH", url="https://t.me/AristocratPH"),
+        InlineKeyboardButton("Podcast PH", url="https://t.me/PodcastPH"),
     ],
     [ 
-        InlineKeyboardButton("ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ", url="https://t.me/ABOUT_MUKUND/15"),
+        InlineKeyboardButton("ILA Channel", url="https://t.me/ImperialLegion"),
+        InlineKeyboardButton("Paige's Poem", url="https://t.me/PoeticFervour")
     ],    
 ]
 
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ALIEN_X_UPDATE")
+            InlineKeyboardButton(text="Aristocrat PH", url="https://t.me/AristocratPH"),
+            InlineKeyboardButton(text="Podcast PH", url="https://t.me/PodcastPH")
         ]
     ]
 )
@@ -146,9 +148,9 @@ REPO_BUTTONS = [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="https://github.com/Legend-Mukund/Song"),
     ],
     [ 
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/ALIEN_X_SUPPORT"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/ALIEN_X_UPDATE"),
-        InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/LEGEND_MUKUND"),
+        InlineKeyboardButton(text="Aristocrat PH", url="https://t.me/AristocratPH"),
+        InlineKeyboardButton(text="Podcast PH", url="https://t.me/PodcastPH"),
+        InlineKeyboardButton(text="Owner", url="https://t.me/PaigeCarlisle"),
     ],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="mukund"),
